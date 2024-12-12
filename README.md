@@ -3,20 +3,27 @@
 <h1 align="center">Hola, soy Jose Dussan👋</h1>
 </div>
 <!--<img src="https://i.imgur.com/weNbhGZ.png">-->
-https://badgen.net/badge/icon/linkedin?icon=codeship&label
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
+- ⭐ AR developer 
 - 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+62k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+- 🧑‍🏫 Wordpress
+
+## Lenguajes y tecnologías
+![C#](https://badgen.net/badge/icon/Csharp?icon=vercel&label) <br>
+![Dart](https://badgen.net/badge/icon/Dart?icon=vercel&label) <br>
+![Unity](https://badgen.net/badge/icon/Unity?icon=bitcoin-lightning&label)<br>
+![Blender](https://badgen.net/badge/icon/Blender?icon=dependabot&label)<br>
+![Vuforia](https://badgen.net/badge/icon/Vuforia?icon=bitcoin-lightning&label)<br>
+![ARFoundtaion](https://badgen.net/badge/icon/AR-Foundation?icon=bitcoin-lightning&label)<br>
+![Wordpress](https://badgen.net/badge/icon/Wordpress?icon=bitcoin-lightning&label)<br>
+![Wordpress](https://badgen.net/badge/icon/Flutter?icon=bitcoin-lightning&label)
 <br>
 
-## Proyectos *bombitas*
-<table>
+## Proyectos
+
+<!--<table>
 <tr>
 <td width="50%">
 <h3 align="center">Curso Android Básico</h3>
@@ -91,28 +98,17 @@ https://badgen.net/badge/icon/linkedin?icon=codeship&label
                                                                                       
 </td>  
 </table>                                                                                 
-</div>
+</div>-->
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=josedussan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josedussan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <!--
 **josedussan/josedussan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
