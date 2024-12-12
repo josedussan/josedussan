@@ -1,8 +1,9 @@
 
 <div align="center">
 <h1 align="center">Hola, soy Jose Dussan👋</h1>
+  <img src="bannerGithub.jpg">
 </div>
-<!--<img src="https://i.imgur.com/weNbhGZ.png">-->
+
 
 ## Sobre mi
 
