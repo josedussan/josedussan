@@ -19,7 +19,7 @@
 ![Vuforia](https://badgen.net/badge/icon/Vuforia?icon=bitcoin-lightning&label)<br>
 ![ARFoundtaion](https://badgen.net/badge/icon/AR-Foundation?icon=bitcoin-lightning&label)<br>
 ![Wordpress](https://badgen.net/badge/icon/Wordpress?icon=bitcoin-lightning&label)<br>
-![Wordpress](https://badgen.net/badge/icon/Flutter?icon=bitcoin-lightning&label)
+![Wordpress](https://badgen.net/badge/icon/JavaScript?icon=bitcoin-lightning&label)
 <br>
 
 ## Proyectos
